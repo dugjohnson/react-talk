@@ -1,0 +1,12 @@
+{
+  "name": "react-talk",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "flux": "~2.1.1",
+    "react": "^0.13.3",
+    "babelify": "^6.3.0",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
